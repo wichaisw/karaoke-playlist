@@ -1,4 +1,4 @@
-const songs = [
+const wanwanSongs = [
   {
     title: "Song 1",
     link: "https://example.com/song1",
@@ -13,6 +13,19 @@ const songs = [
     title: "Song 3",
     link: "https://example.com/song3",
     lyrics: "Lyrics for Song 3",
+  },
+];
+
+const mySongs = [
+  {
+    title: "MCR 1",
+    link: "https://example.com/song1",
+    lyrics: "Lyrics for Song 1",
+  },
+  {
+    title: "Keane 1",
+    link: "https://example.com/song1",
+    lyrics: "Lyrics for Song 1",
   },
 ];
 
@@ -43,11 +56,22 @@ function createCard(song) {
   return card;
 }
 
+function selectPlaylist() {
+  const currentPage = window.location.pathname.split("/")[1];
+  switch (currentPage) {
+    case "index.html":
+      return wanwanSongs;
+    case "noom.html":
+      return mySongs;
+    default:
+      return wanwanSongs;
+  }
+}
+
 function renderCards() {
   cardsContainer.innerHTML = "";
-
+  const songs = selectPlaylist();
   const searchTerm = document.getElementById("searchInput").value.toLowerCase();
-
   songs.forEach((song) => {
     if (song.title.toLowerCase().includes(searchTerm)) {
       const card = createCard(song);
