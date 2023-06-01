@@ -1,16 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <title>Karaoke Playlist</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="container">
         <nav class="tabs">
-            <div class="tab">Wanwan's</div>
-            <div class="tab">Mine</div>
+            <span class="heading">Our Playlist</span>
+            <div class="tabs-right">
+                <div class="tab">Wanwan's</div>
+                <div class="tab">Noom's</div>
+            </div>
         </nav>
-        <input type="text" id="searchInput" placeholder="Search" oninput="searchCards()">
+        <div class="search-bar">
+            <input type="text" id="searchInput" placeholder="Search" oninput="searchCards()">
+        </div>
         <div id="cardsContainer">
             <!-- Cards will be dynamically added here -->
         </div>

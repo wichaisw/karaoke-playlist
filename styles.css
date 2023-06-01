@@ -1,5 +1,5 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: "Montserrat", sans-serif;
   margin: 0;
   padding: 0;
 }
@@ -10,7 +10,17 @@ body {
   padding: 20px;
 }
 
+.heading {
+  font-size: 2rem;
+}
+
 .tabs {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.tabs-right {
   display: flex;
   justify-content: flex-end;
   margin-bottom: 20px;
@@ -31,6 +41,7 @@ body {
 .search-bar {
   position: relative;
   margin-bottom: 20px;
+  padding-inline-end: inherit;
 }
 
 .search-bar input[type="text"] {
