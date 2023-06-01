@@ -1,35 +1,19 @@
-const wanwanSongs = [
-  {
-    title: "Song 1",
-    link: "https://example.com/song1",
-    lyrics: "Lyrics for Song 1",
-  },
-  {
-    title: "Song 2",
-    link: "https://example.com/song2",
-    lyrics: "Lyrics for Song 2",
-  },
-  {
-    title: "Song 3",
-    link: "https://example.com/song3",
-    lyrics: "Lyrics for Song 3",
-  },
-];
-
-const mySongs = [
-  {
-    title: "MCR 1",
-    link: "https://example.com/song1",
-    lyrics: "Lyrics for Song 1",
-  },
-  {
-    title: "Keane 1",
-    link: "https://example.com/song1",
-    lyrics: "Lyrics for Song 1",
-  },
-];
-
 const cardsContainer = document.getElementById("cardsContainer");
+
+function unescapeCharacters(text) {
+  var escapedChars = {
+    "\\n": "\n",
+    "\\r": "\r",
+    "\\t": "\t",
+    "\\f": "\f",
+    '\\"': '"',
+    "\\'": "'",
+    "\\\\": "\\",
+  };
+  return text.replace(/\\[nrtf\\"']/g, function (match) {
+    return escapedChars[match];
+  });
+}
 
 function createCard(song) {
   const card = document.createElement("div");
@@ -41,8 +25,8 @@ function createCard(song) {
   const link = document.createElement("p");
   link.innerHTML = `Link: <a href="${song.link}" target="_blank">${song.link}</a>`;
 
-  const lyrics = document.createElement("p");
-  lyrics.textContent = song.lyrics;
+  const lyrics = document.createElement("pre");
+  lyrics.textContent = unescapeCharacters(song.lyrics);
   lyrics.classList.add("lyrics");
 
   card.appendChild(title);

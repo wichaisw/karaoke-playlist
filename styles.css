@@ -13,6 +13,19 @@ input {
   font-size: 14px;
 }
 
+.bg-image {
+  background-image: url("./assets/kiryu.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 400px;
+  position: relative;
+  background-size: contain;
+  margin-bottom: 2rem;
+}
+
+.bg-text {
+}
+
 .container {
   max-width: 800px;
   margin: 0 auto;
