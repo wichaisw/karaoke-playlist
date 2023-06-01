@@ -52,10 +52,9 @@ function selectPlaylist() {
   }
 }
 
-function renderCards() {
+function renderCards(searchTerm) {
   cardsContainer.innerHTML = "";
   const songs = selectPlaylist();
-  const searchTerm = document.getElementById("searchInput").value.toLowerCase();
   songs.forEach((song) => {
     if (song.title.toLowerCase().includes(searchTerm)) {
       const card = createCard(song);
@@ -65,7 +64,14 @@ function renderCards() {
 }
 
 function searchCards() {
-  renderCards();
+  const searchTerm = document.getElementById("searchInput").value.toLowerCase();
+  const bakaImage = document.querySelector(".bg-image");
+  if (searchTerm.length > 0) {
+    bakaImage.style.display = "none";
+  } else {
+    bakaImage.style.display = "flex";
+  }
+  renderCards(searchTerm);
 }
 
-renderCards();
+renderCards("");

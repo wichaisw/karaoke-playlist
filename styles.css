@@ -21,9 +21,15 @@ input {
   position: relative;
   background-size: contain;
   margin-bottom: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
 }
 
 .bg-text {
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 2rem;
 }
 
 .container {
@@ -113,6 +119,9 @@ input {
 }
 
 @media (max-width: 600px) {
+  .bg-image {
+    background-size: cover;
+  }
   .card {
     padding: 10px;
   }
