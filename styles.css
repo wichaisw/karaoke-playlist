@@ -113,6 +113,7 @@ input {
   line-height: 1.5;
   color: #777;
   transition: opacity 0.3s ease;
+  word-wrap: break-word;
 }
 
 .lyrics.show {

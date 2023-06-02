@@ -23,7 +23,7 @@ function createCard(song) {
   title.textContent = song.title;
 
   const link = document.createElement("p");
-  link.innerHTML = `Link: <a href="${song.link}" target="_blank">${song.link}</a>`;
+  link.innerHTML = `Link: <a style="word-wrap: break-word;" href="${song.link}" target="_blank">${song.link}</a>`;
 
   const lyrics = document.createElement("pre");
   lyrics.textContent = unescapeCharacters(song.lyrics);
