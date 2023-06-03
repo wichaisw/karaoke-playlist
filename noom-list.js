@@ -71,7 +71,7 @@ const mySongs = [
   },
   {
     id: 11,
-    title: "Chatmonchy",
+    title: "Chatmonchy - Shangri-La",
     link: "https://www.jpopasia.com/chatmonchy/lyrics/77745/shangri-la/shangri-la-%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%A9",
     lyrics:
       "Shangri-la\r\nshiawase datte sakende kureyo\r\ntoki ni wa boku no mune de naite kureyo\r\nShangri-la\r\nyume no naka de sae umaku waraenai\r\nkimi no koto shikari nagara aishite itai\r\n\r\nkeitai denwa wo kawa ni otoshitayo\r\nsasabune no you ni nagarettetayo\r\nah ahh ahh ahh ahh\r\nkimi wo omou to kyou mo nemurenai\r\nbokura doko he mukaou ka\r\nah ahh ahh ahh\r\n\r\nshangri-la\r\nshiawase datte sakende kureyo\r\nijippari na kimi no nakigao misete kureyo\r\nshangri-la\r\nmassugu na michi de koronda to shitemo\r\nkimi no te wo hippate hanasanai daijoubu sa\r\n\r\nah ahh\r\nkiga tsukeba onaji boke na mono de tsunagattetanda\r\nah ahh\r\ntebura ni natte aruite mirarekute moshi mae wo\r\nmune wo hatte arukeyo\r\nmae wo mite arukeyo\r\nkibou no hikari nante nakuttate ii janaika\r\n\r\nShangri-la\r\nshiawase datte sakende kureyo\r\ntoki ni wa boku no mune de naite kureyo\r\nshangri-la\r\nshiawase datte sakende kureyo\r\nijippari na kimi no nakigao misete kureyo\r\n\r\nshanguri-la\r\nkimi wo omou to kyou mo nemurenai yo\r\nboku no koto shikari nagara aishite kure\r\n",

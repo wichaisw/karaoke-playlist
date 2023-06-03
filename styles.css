@@ -19,8 +19,7 @@ input {
   font-size: 14px;
 }
 
-.bg-image {
-  background-image: url("./assets/kiryu.jpeg");
+.image-container {
   background-position: center;
   background-repeat: no-repeat;
   height: 400px;
@@ -30,6 +29,14 @@ input {
   display: flex;
   justify-content: center;
   align-items: flex-end;
+}
+
+.image-wanwan {
+  background-image: url("./assets/kiryu.jpeg");
+}
+
+.image-me {
+  background-image: url("./assets/joker.webp");
 }
 
 .bg-text {
@@ -142,7 +149,7 @@ input {
 }
 
 @media (max-width: 600px) {
-  .bg-image {
+  .image-container {
     background-size: cover;
   }
   .card {

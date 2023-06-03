@@ -66,18 +66,28 @@ function renderCards(searchTerm) {
 
 function searchCards() {
   const searchTerm = document.getElementById("searchInput").value.toLowerCase();
-  const bakaImage = document.querySelector(".bg-image");
+  const heroImageElem = document.querySelector(".image-container");
   if (searchTerm.length > 0) {
-    bakaImage.style.display = "none";
+    heroImageElem.style.display = "none";
   } else {
-    bakaImage.style.display = "flex";
+    heroImageElem.style.display = "flex";
   }
   renderCards(searchTerm);
 }
 
 function changePlaylist(playListName) {
   currentPlaylist = playListName;
+  setHeroImage();
   renderCards("");
 }
 
+function setHeroImage() {
+  const heroImageElem = document.querySelector(".image-container");
+  const heroImage = currentPlaylist === "wanwan" ? "image-wanwan" : "image-me";
+  heroImageElem.classList.remove("image-wanwan");
+  heroImageElem.classList.remove("image-me");
+  heroImageElem.classList.add(heroImage);
+}
+
+setHeroImage();
 renderCards("");
