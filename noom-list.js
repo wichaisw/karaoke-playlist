@@ -2,14 +2,14 @@ const mySongs = [
   {
     id: 1,
     title: "ASIAN KUNG-FU GENERATION - Solanin",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/asian-kung-fu-generation/solanin/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/asian-kung-fu-generation/solanin",
     lyrics:
       "Omoichigai wa sora no kanata\r\nSayonara dake no jinsei ka\r\nHonno sukoshi no mirai wa mieta no ni\r\nSayonara nan da\r\n\r\n\r\nMukashi sundeta chiisana heya wa\r\nIma wa dareka ga sunden da\r\nKimi ni iwareta hidoi kotoba mo\r\nMuda na ki ga shita mainichi mo\r\n\r\n\r\nAno toki koushitereba ano hi ni modorereba\r\nAno koro no boku ni wa mou modorenai yo\r\n\r\n\r\nTatoeba yurui shiawase ga daratto tsuzuita to suru\r\nKitto warui tane ga me wo dashite\r\nMou sayonara nan da\r\n\r\n\r\nSamui fuyu no hieta kan koohii\r\nNijiiro no nagai mafuraa\r\nKobashiri de rojiura wo nukete\r\nOmoidashite miru\r\n\r\n\r\nTatoeba yurui shiawase ga daratto tsuzuita to suru\r\nKitto warui tane ga me wo dashite\r\nMou sayonara nan da\r\n\r\n\r\nSayonara sore mo ii sa\r\nDoko ka de genki de yare yo\r\nSayonara boku mo dou ni ka yaru sa\r\nSayonara sou suru yo",
   },
   {
     id: 2,
     title: "Kenshi Yonezu - vivi",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/kenshi-yonezu/vivi/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/kenshi-yonezu/vivi",
     lyrics: "https://www.freeformatter.com/json-escape.html#before-output",
   },
   {
@@ -22,7 +22,7 @@ const mySongs = [
   {
     id: 4,
     title: "FUNKY MONKEY BABYS - Ato Hitotsu",
-    link: "https://www.jpopasia.com/funkymonkeybabys/lyrics/10180/ato-hitotsu/ato-hitotsu/",
+    link: "https://www.jpopasia.com/funkymonkeybabys/lyrics/10180/ato-hitotsu/ato-hitotsu",
     lyrics:
       "ato hitotsubu no namida de hito koto no yuuki de negai ga kanau sono toki ga kurutte\r\nboku ha shinjiteru kara kimi mo akiramenaideite\r\nnando demo kono ryoute wo ano sora he\r\n\r\nano hi mo konna natsu datta suna majiri no kaze ga fuiteta\r\ngurando no maue no sora yuuhi ga mabushikute\r\ndoko made ganbare baiinda gyutto kuchibiru wo kamishimeta\r\nsonna toki onaji me wo shita kimi ni deattanda\r\n\r\nsou kantan jyanai kara koso yume ha konna ni kagayaku dato\r\nsou ano hi no kimi no kotoba ima demo mune ni dakishimeteru yo\r\n\r\nato hitotsubu no namida de hito koto no yuuki de negai ga kanau sono toki ga kurutte\r\nboku wa shinjiteru kara kimi mo akiramenaideite\r\nnando demo kono ryoute wo ano sora he nobashite ano sora he\r\n\r\nitsumo doushite mo sunao ni narezuni jishin nante maru de motezuni\r\nkousha no uragawa hitome wo ki ni shite aruiteta\r\ndareka to butsukariau koto wo kokoro no dokoka de toozaketa\r\nsore ha hontou no jibun wo mise runoga kowai dake dattandato\r\n\r\noshietekureta no ha kimi to sugoshita kyou made no hibi\r\nsou hajimete kuchi ni dekita nakitai kurai no hontou no yume wo\r\n\r\nato hitotsu no sakamichi wo hitotsu dake no yoru wo koerareta nara waraeru hi ga kurutte\r\nkyou mo shinjiteru kara kimi mo akiramenaideite\r\nnando demo kono ryoute wo ano sora he\r\n\r\natsukunattemo muda nante kotoba kikiakita yo moshi mo sou da toshitemo\r\nosaekirenai kono kimochi wo kibou to yobu nara\r\nittai dare ga yamerareru to iu no darou\r\n\r\nato hitotsubu no namida ga hito koto no yuuki ga ashita wo kaeru sono toki wo mitanda\r\nnakushikaketa hikari kimi ga omoidasasetekureta\r\nano hi no keshiki wasurenai\r\n\r\nato hitotsubu no namida de hito koto no yuuki de negai ga kanau sono toki ga kurutte\r\nboku ha shinjiteru kara kimi mo akiramenaideite\r\nnando demo kono ryoute wo ano sora he nobashite ano sora he",
   },
@@ -30,7 +30,7 @@ const mySongs = [
     id: 5,
     title:
       "ASIAN KUNG-FU GENERATION - Korogaru Iwa, Kimi ni Asa ga Furu (Rockn' Roll, Morning Light Falls on You)",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/asian-kung-fu-generation/korogaru-iwa-kimi-ni-asa-ga-furu/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/asian-kung-fu-generation/korogaru-iwa-kimi-ni-asa-ga-furu",
     lyrics:
       "Dekireba sekai wo boku wa nurikaetai\r\nSensou wo nakusu you na daisoreta koto janai\r\nDakedo chotto sore mo aru yo na\r\n\r\n\r\nHaiyuu ya eiga sutaa ni wa narenai\r\nSore dokoro ka kimi no mae de sae mo jouzu ni waraenai\r\nSonna boku ni sube wa nai yo na\r\nAa\u2026\r\n\r\n\r\nNani wo machigatta?\r\nSore sae mo wakaranain da\r\nRooringu rooringu\r\nHajime kara mottenai no ni mune ga itanda\r\n\r\n\r\nBokura wa kitto kono saki mo\r\nKokoro karamatte rooringu rooringu\r\nItetsuku jimen wo korogaru you ni hashiridashita\r\n\r\n\r\nWake mo nai no ni nan da ka kanashii\r\nNake ya shinai kara yokei ni sukui ga nai\r\nSonna yoru wo atatameru you ni utaun da\r\n\r\n\r\nIwa wa korogatte bokutachi wo dokoka ni tsurete iku you ni, you ni\r\nKatai jimen wo wakete inochi ga mebaeta\r\nAno oka wo koeta sono saki wa\r\nHikari kagayaita you ni, you ni\r\nKimi no kodoku mo subete abakidasu asa da\r\n\r\n\r\nAkai akai chiisana kuruma wa kimi wo nosete\r\nTooku mukou no kado wo magatte\r\nKoko kara wa mienaku natta\r\n\r\n\r\nNani wo nakushita?\r\nSore sae mo wakaranain da\r\nRooringu rooringu\r\nHajime kara mottenai no ni mune ga itanda\r\n\r\n\r\nBokura wa kitto kono saki mo\r\nKokoro karamatte rooringu rooringu\r\nItetsuku sekai wo korogaru you ni hashiridashita",
   },
@@ -44,48 +44,49 @@ const mySongs = [
   {
     id: 7,
     title: "FLOW - Colors",
-    link: "https://www.jpopasia.com/flow/lyrics/176338/anime-best/colors/",
-    lyrics: "https://www.jpopasia.com/flow/lyrics/176338/anime-best/colors/",
+    link: "https://www.jpopasia.com/flow/lyrics/176338/anime-best/colors",
+    lyrics:
+      "Jibun wo sekai saemo kaete shimaesouna\r\nShunkan wa itsumo sugu sobani\u2026\r\nKakusenu iradachi to tachi tsukusu jibun wo mitsume\r\nMayoinagara nayaminagara kuyaminagara kimerebaii sa\r\nKimegakureta kotoba hitotsu tomadoi wa kiesari\r\nKarappo datta boku no heya ni hikari ga sashita\r\nMiageta oozora ga aoku sumikitte yuku\r\nTozashita mado wo hiraku koto wo kimeta\r\nJibun wo sekai saemo kaete shimaesouna\r\nShunkan wa itsumo sugu sobani\u2026\r\nMitasenu nichijou ni aruhazu no kotae wo sagashite\r\nAsahi ni hitori yawarakana koe ni furi mukeba\r\nMabayui hizashi no naka futo kimi ga hohoemu\r\nTozashita mado ga hirakisou ni naru\r\nJibun wo sekai saemo kaete shimaesouna\r\nSonzai wa boku no me no mae ni\u2026\r\nMiageta oozora ga aoku sumikitte yuku\r\nTozashita mado wo hiraku koto wo kimeta\r\nJibun wo sekai sae mo kaete shimaesouna\r\nShunkan wo kanjiru ima koko ni\u2026\r\nHikari e to ryoute wo nobashite\r\nKokoro wo fukinukeru sora no iro kaoru kaze",
   },
   {
     id: 8,
     title: "Bakamitai",
-    link: "https://hondoori.wordpress.com/yakuza-stuff/translated-guides/karaoke-song-lyrics/%E9%A6%AC%E9%B9%BF%E3%81%BF%E3%81%9F%E3%81%84-baka-mitai-lyrics/",
+    link: "https://hondoori.wordpress.com/yakuza-stuff/translated-guides/karaoke-song-lyrics/%E9%A6%AC%E9%B9%BF%E3%81%BF%E3%81%9F%E3%81%84-baka-mitai-lyrics",
     lyrics:
       "Baka mitai hontou baka ne\r\nAnta shinjiru bakari de\r\nTsuyoi onna no furi setsunasa no yokaze abiru\r\n\r\nHitori ni natte sannen ga sugi\r\nMachinami sae mo kawarimashita\r\nNa no ni na no ni doushite miren dake okizari\r\n\r\nHonma ni roku na otoko ya nai\r\nSoroi no yubiwa hazushimasu\r\nZamaa miro seisei suru wa\r\nIi kagen mattete mo baka mitai\r\n\r\nDame da ne Dame yo dame na no yo\r\nAnta ga sukide sukisugite\r\nDore dake tsuyoi osake demo\r\nYugamanai omoide ga baka mitai\r\n\r\nHonma ni roku na otoko ya nai\r\nSoroi no yubiwa hazushimasu\r\nZamaa miro seisei suru wa\r\nNan na yo kono namida baka mitai",
   },
   {
     id: 9,
     title: "Official HIGE DANdism - Stand By You",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/official-hige-dandism/stand-by-you/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/official-hige-dandism/stand-by-you",
     lyrics:
       "Kanseikei wo kuchi ni dasu to shirakete shimaisou dakara\r\nOto de kakikesou muda na mon wo ki ni shinaide fuzakeaitai\r\n\r\n\r\nDonna ni sugoi hon ya eiga yori iroasenai fumetsu no hibi wo kasanete arukitai\r\n\r\n\r\nStand By You itsumo Stand By You\r\nNamida no taaminaru Uh Uh narande tatteiru\r\nStand By You itsumo Stand By You\r\nMirai ga hai ni naru Uh Uh kimi to uta ni naru\r\nStand By You Oh Oh nemuranai machi no kensou wo nukedashite Yeah\r\nStand By You Oh Oh hikari afureta yume no tsuzuki wa kimi to tomo ni\r\n\r\n\r\nNanashi no kanjou moteamasu to umaku waraenakunaru kara\r\nIssho ni moyasou sono omoi wo kataritsukushite waraiaitai\r\n\r\n\r\nDonna ni sugoi shou ya juni yori kimi no soba ni irareru koto ga ichiban hokorashii\r\n\r\n\r\nStand By You itsumo Stand By You\r\nNamida no taaminaru Uh Uh narande tatteiru\r\nStand By You iki wo kirashiteiku\r\nKitai de aseban de iku Uh Uh kimi to asu e iku\r\nStand By You Oh Oh mabataki mo wasureru hodo no shiawase de Yeah\r\nStand By You Oh Oh owarasekaketa hanashi no saki ga umare hajimeru\r\n\r\n\r\nTatoe bokura tooku hanareta basho e yukou tomo kawarazu ni itai yo na?\r\nKawaru hazu ga nai yo na?\r\n\r\n\r\nStand By You itsumo Stand By You\r\nNamida no taaminaru Uh Uh narande tatteiru\r\nStand By You itsumo Stand By You\r\nMirai ga hai ni naru Uh Uh kimi to uta ni naru\r\nStand By You Oh Oh nemuranai machi no kensou wo nukedashite Yeah\r\nStand By You Oh Oh hikari afureta yume no tsuzuki wa kimi to tomo ni\r\nStand By You\r\n\r\n",
   },
   {
     id: 10,
     title: "Chatmonchy - Somaru Yo",
-    link: "https://www.jpopasia.com/chatmonchy/lyrics/77774/somaru-yo/somaru-yo-%E6%9F%93%E3%81%BE%E3%82%8B%E3%82%88/",
+    link: "https://www.jpopasia.com/chatmonchy/lyrics/77774/somaru-yo/somaru-yo-%E6%9F%93%E3%81%BE%E3%82%8B%E3%82%88",
     lyrics:
       "Aruki nare te nai yomichi o furari to aruki taku natte\r\nKeikou tou ni terasa re tara koko dake muri shi teru mitai da\r\n\r\nOtona da kara ichi do kurai tabako o sutte mi taku natte\r\nTsukiakari ni terasa re tara warui koto shi teru mitai da\r\n\r\nAnata no suki na tabako\r\nWatashi yori suki na tabako\r\n\r\nItsu datte soba ni i takatta\r\nWakari takatta mitashi takatta\r\nPuka puka puka puka\r\nKemuri ga me ni shimiru yo nigaku te kuroku somaru yo\r\n\r\nHi ga kie ta kara mou dame da\r\nMahou ha toke te shimau\r\nAnata ha kemuri ni maka re te atoaji saitei\r\n\r\nMasshiro na iki ga tomaru\r\nMakkuro na yoru to watashi\r\n\r\nItsu datte soba ni ire tara\r\nKaware taka na mashi datta ka na\r\nPuka puka puka puka\r\nKemuri ga me ni shimi te mo kuraku te mo yoru ha akeru\r\n\r\nAnata no kure ta kotoba\r\nTadashiku te iroase nai\r\nDemo mou ira nai\r\n\r\nItsu datte anata dake datta\r\nKirawa nai de yo wasure nai de yo\r\nPuka puka puka puka\r\nKemuri ga kumo ni natte asayake shoku ni somaru yo",
   },
   {
     id: 11,
     title: "Chatmonchy",
-    link: "https://www.jpopasia.com/chatmonchy/lyrics/77745/shangri-la/shangri-la-%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%A9/",
+    link: "https://www.jpopasia.com/chatmonchy/lyrics/77745/shangri-la/shangri-la-%E3%82%B7%E3%83%A3%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%A9",
     lyrics:
       "Shangri-la\r\nshiawase datte sakende kureyo\r\ntoki ni wa boku no mune de naite kureyo\r\nShangri-la\r\nyume no naka de sae umaku waraenai\r\nkimi no koto shikari nagara aishite itai\r\n\r\nkeitai denwa wo kawa ni otoshitayo\r\nsasabune no you ni nagarettetayo\r\nah ahh ahh ahh ahh\r\nkimi wo omou to kyou mo nemurenai\r\nbokura doko he mukaou ka\r\nah ahh ahh ahh\r\n\r\nshangri-la\r\nshiawase datte sakende kureyo\r\nijippari na kimi no nakigao misete kureyo\r\nshangri-la\r\nmassugu na michi de koronda to shitemo\r\nkimi no te wo hippate hanasanai daijoubu sa\r\n\r\nah ahh\r\nkiga tsukeba onaji boke na mono de tsunagattetanda\r\nah ahh\r\ntebura ni natte aruite mirarekute moshi mae wo\r\nmune wo hatte arukeyo\r\nmae wo mite arukeyo\r\nkibou no hikari nante nakuttate ii janaika\r\n\r\nShangri-la\r\nshiawase datte sakende kureyo\r\ntoki ni wa boku no mune de naite kureyo\r\nshangri-la\r\nshiawase datte sakende kureyo\r\nijippari na kimi no nakigao misete kureyo\r\n\r\nshanguri-la\r\nkimi wo omou to kyou mo nemurenai yo\r\nboku no koto shikari nagara aishite kure\r\n",
   },
   {
     id: 12,
     title: "Shoko Nakagawa - Sorairo Days",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/shoko-nakagawa/sorairo-days/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/shoko-nakagawa/sorairo-days",
     lyrics:
       "Kimi wa kikoeru?\r\nBoku no kono koe ga\r\nYami ni munashiku\r\nSuikomareta\r\n\r\n\r\nMoshimo sekai ga\r\nImi wo motsu no nara\r\nKonna kimochi mo\r\nMuda de wa nai?\r\n\r\n\r\nAkogare ni oshitsubusarete\r\nAkirametetan da\r\nHateshi nai sora no iro mo\r\nShiranaide\r\n\r\n\r\nHashiridashita omoi ga ima demo\r\nKono mune wo tashika ni tataiteru kara\r\nKyou no boku ga sono saki ni tsuzuku\r\nBokura nari no asu wo kizuite yuku\r\n\r\n\r\nKotae wa sou itsumo koko ni aru\r\n\r\n\r\nSugita kisetsu wo\r\nNageku hima wa nai\r\nNido to mayotte\r\nShimawanu you ni\r\n\r\n\r\nKazoe kirenai\r\nHon no sasayaka na\r\nSonna koukai\r\nKakaeta mama\r\n\r\n\r\nSono senaka dake oikakete\r\nKoko made kitan da\r\nSagashiteita\r\nBoku dake ni dekiru koto\r\n\r\n\r\nAno hi kureta kotoba ga ima demo\r\nKono mune ni tashika ni todoiteru kara\r\nKinou yori mo kyou boku wa\r\nBoku no umarete kita wake ni kizuite yuku\r\n\r\n\r\nKotae wa sou itsumo koko ni aru\r\n\r\n\r\nSubete ga marude atarimae mitai datta\r\nToutoi hibi wa mada owaranai\r\n\r\n\r\nSoshite mata\r\nHashiridashita omoi ga ima demo\r\nKono mune wo tashika ni tataiteru kara\r\nKyou no boku ga sono saki ni tsuzuku\r\nBokura nari no asu wo kizuite yuku\r\n\r\n\r\nKotae wa sou itsumo koko ni aru",
   },
   {
     id: 13,
     title: "Vocaloid - Kokoronashi",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/sou/kokoronashi/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/sou/kokoronashi",
     lyrics:
       "Kimi wa kikoeru?\r\nBoku no kono koe ga\r\nYami ni munashiku\r\nSuikomareta\r\n\r\n\r\nMoshimo sekai ga\r\nImi wo motsu no nara\r\nKonna kimochi mo\r\nMuda de wa nai?\r\n\r\n\r\nAkogare ni oshitsubusarete\r\nAkirametetan da\r\nHateshi nai sora no iro mo\r\nShiranaide\r\n\r\n\r\nHashiridashita omoi ga ima demo\r\nKono mune wo tashika ni tataiteru kara\r\nKyou no boku ga sono saki ni tsuzuku\r\nBokura nari no asu wo kizuite yuku\r\n\r\n\r\nKotae wa sou itsumo koko ni aru\r\n\r\n\r\nSugita kisetsu wo\r\nNageku hima wa nai\r\nNido to mayotte\r\nShimawanu you ni\r\n\r\n\r\nKazoe kirenai\r\nHon no sasayaka na\r\nSonna koukai\r\nKakaeta mama\r\n\r\n\r\nSono senaka dake oikakete\r\nKoko made kitan da\r\nSagashiteita\r\nBoku dake ni dekiru koto\r\n\r\n\r\nAno hi kureta kotoba ga ima demo\r\nKono mune ni tashika ni todoiteru kara\r\nKinou yori mo kyou boku wa\r\nBoku no umarete kita wake ni kizuite yuku\r\n\r\n\r\nKotae wa sou itsumo koko ni aru\r\n\r\n\r\nSubete ga marude atarimae mitai datta\r\nToutoi hibi wa mada owaranai\r\n\r\n\r\nSoshite mata\r\nHashiridashita omoi ga ima demo\r\nKono mune wo tashika ni tataiteru kara\r\nKyou no boku ga sono saki ni tsuzuku\r\nBokura nari no asu wo kizuite yuku\r\n\r\n\r\nKotae wa sou itsumo koko ni aru",
   },
@@ -105,7 +106,7 @@ const mySongs = [
   {
     id: 16,
     title: "Rie fu - Life is Like a Boat ",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/rie-fu/life-is-like-a-boat/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/rie-fu/life-is-like-a-boat",
     lyrics:
       "Nobody knows who I really am\r\nI never felt this empty before\r\nAnd if I ever need someone to come along\r\nWho\u2019s gonna comfort me, and keep me strong\r\nWe are all rowing the boat of fate\r\nThe waves keep on comin \u2018and we can\u2019 t escape\r\nBut if we ever get lost on your way\r\nThe waves would guide you thru another day\r\nTooku de iki wo shiteru toumei ni natta mitai\r\nKurayami ni omoeta kedo mekakushi sareteta dake\r\nInori wo sasagete atarashii hi wo matsu\r\nAzayaka ni hikaru umi sono hate made\r\n\r\n\r\nNobody knows who I really am\r\nMaybe they just don\u2019t give a damn\r\nBut if I ever need someone to come along\r\nI know you would follow me, and keep me strong\r\nHito no kokoro wa utsuri yuku nukedashitaku naru\r\nTsuki wa mata atarashii shuuki de fune wo tsureteku\r\n\r\n\r\nAnd every time I see your face,\r\nThe oceans heave up to my heart\r\nYou make me wanna strain at the oars,\r\nAnd soon I can see the shore\r\n\r\n\r\nI want you to know who I really am\r\nI never though I\u2019d feel this way towards you\r\nAnd if you ever need someone to come along\r\nI will follow you, and keep you strong\r\nTabi wa mada tsuzuiteku odayaka na hi mo\r\nTsuki wa mata atarashii shuuki de fune wo terashidasu\r\nInori wo sasagete atarashii hi wo matsu\r\nAzayaka ni hikaru umi sono hate made\r\n\r\n\r\nAnd every time I see your face,\r\nThe oceans heave up to my heart\r\nYou make me wanna strain at the oars,\r\nAnd soon I can see the shore\r\n\r\n\r\nUnmei no fune wo kogi nami wa tsugi kara tsugi e to watashi tachi wo osou kedo\r\nSore mo suteki na tabi ne doremo suteki na tabi ne",
   },
@@ -119,14 +120,14 @@ const mySongs = [
   {
     id: 18,
     title: "Kirinji - Favorite",
-    link: "https://www.uta-net.com/global/en/video/49182/",
+    link: "https://www.uta-net.com/global/en/video/49182",
     lyrics:
       "sawagi wo nukedase ba  nin sorezore no machi ga mezameru \r\nmabayui hitotoki \r\n\r\nfu eibaritto   aruko u \r\ntomoshibi shi ta ai wo dai te \r\nyumekatari no netsu ga sameru made \r\nano sora he takaku   matenrou no kanata ni \r\nshiroi iki wo hazuma se   sou sa \r\nshiroi iki wo hazuma se   bokura ha \r\nitsuka no you ni \r\n\r\nkun ha eri wo tate te \r\nbu ^ tsu de me ro de i wo kanaderu sa \r\nitetsuku asa no sanpomichi \r\nhiwai na rakugaki de sae \r\nsomeageru   hikari wo abi tara \r\n\r\nfu eibaritto   aruko u \r\noshimi nai sanji de \r\nsasakure ta kokoro ga netsuku made \r\nano sora no yawarakai   taiyou no ubuge ni \r\nme wo tojire ba nani ka ga   sou sa \r\nme wo tojire ba nani ka ga   sou sa \r\nyasuraka ni naru \r\n\r\nyakedo no you ni uzuku \r\nnin sorezore no negai \r\nnomikon de   kono machi ha fukuramu \r\n\r\nfu eibaritto   aruko u \r\nkare nai ai wo dai te \r\nmonogatari orinasu   mainichi \r\nano sora wo wakachi au   matenrou no kodomo sa \r\nmune wo kogasu nani ka ni   be ibi i \r\nmune wo kogasu nani ka ni   bokura ha \r\niki wo kirasu",
   },
   {
     id: 19,
     title: "Kinoko Teikoku - You Outside My Window",
-    link: "https://www.jpopasia.com/kinokoteikoku/lyrics/250343/%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89-fake-world-wonderland/you-outside-my-window/",
+    link: "https://www.jpopasia.com/kinokoteikoku/lyrics/250343/%E3%83%95%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AF%E3%83%B3%E3%83%80%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89-fake-world-wonderland/you-outside-my-window",
     lyrics:
       "yoru mirai nagai kowai yume miru owari\r\nasu hikari tozasu mado no naka ga sekai\r\nyoru sora miagereba sou nanimo mien\r\nasu kitaru asu o kowasu mousou\r\n\r\nahou kusee\r\n\r\nyoru mirai nagai kowai yume miru owari\r\nasu hikari tozasu mado no naka ga sekai\r\nyoru sora miagereba sou nanimo mien\r\nasu kitaru asu o kowasu mousou\r\n\r\nitsuka itsuka mienai kabe o\r\nkoete sotto furete yo\r\nitsuka itsuka toumei na kabe o\r\nkowashite kimi ni furete warau yo\r\n\r\nitsuka itsuka ienai kizu mo\r\nkakaete sotto furete yo\r\nitsuka itsuka ienai kotoba\r\ntsutaete kimi ni furete warau yo",
   },
@@ -140,7 +141,7 @@ const mySongs = [
   {
     id: 21,
     title: "Vocaloid - Ikanaide",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/sohta/ikanaide/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/sohta/ikanaide",
     lyrics:
       "Mujihina kotoba dake ga detarame ni machi ni afureteru\r\nNever more, setsunaku nagareteta koe\r\n\r\nNanigenai nichijou ga sayonara wo tsuge\r\nBokura no kakegae no nai hi ushinawareteta\r\nTaiyou kakusu kirisame hikari wo ubai\r\nShinjiru mono nakushiteta boku wa nayami dakedo\r\n\r\nWasurenai yo, daiji na minna to sugoshita mainichi\r\nNever more, kurai yami mo hitori ja nai sa\r\nMitsukedasu yo, daiji na nakushita mono wo\r\nNever more, kimi no koe ga kitto sou, boku wo michibiku yo\r\n\r\nShinjite ita yo, osanai koro wa tashika ni\r\nItsu no ma ni ka wasureteta taisetsu na kotoba\r\nSamenai sekai no naka de, sagashimotomete\r\nBoku wa yatto mitsuketa yo, kokoro no oku ni atta\r\n\r\nKono mama densha noreba nidoto aenai ki ga shite\r\nNever more, tomadou se wo kimi ga sotto osu yo\r\nShinjiyou, kimi no egao, bokura no kizuna wo\r\nNever more, hanaretete mo tsutawaru yo, kimi no kokoro ga\r\n\r\nItsumo kimi no kioku no katasumi ni ne\r\nNever more, boku ga iru shinjite arukidasu yo\r\n\r\nWasurenai yo, daiji na minna to sugoshita mainichi\r\nNever more, kurai yami mo hitori ja nai yo\r\nMitsukedasu yo, daiji na nakushita mono wo\r\nNever more, kimi no koe ga kitto sou, boku wo michibiku yo\r\n\r\nWasurenai yo, daiji na minna to sugoshita mainichi\r\nNever more, kurai yami mo hitori ja nai sa\r\nMitsukedasu yo, daiji na nakushita mono wo\r\nNever more, kimi no koe ga kitto sou, boku wo michibiku yo\r\n\r\nIma mo oboeteru\r\nKimi ni afureta yoru wo, sore wa\r\nSuteki na omoide\r\nItsumo oboeteru",
   },
@@ -168,28 +169,28 @@ const mySongs = [
   {
     id: 25,
     title: "ASIAN KUNG-FU GENERATION - Rewrite ",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/asian-kung-fu-generation/rewrite/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/asian-kung-fu-generation/rewrite",
     lyrics:
       "Kishinda omoi wo hakidashitai no wa\r\nSonzai no shoumei ga hoka ni nai kara\r\nTsukanda hazu no boku no mirai wa\r\n\u201Csongen\u201D to \u201Cjiyuu\u201D de mujun shiteru yo\r\nYuganda zanzou wo keshisaritai no wa\r\nJibun no genkai wo soko ni miru kara\r\nJiishiki kajou na boku no mado ni wa\r\nKyonen no karendaa hizuke ga nai yo\r\n\r\n\r\nKeshite riraito shite\r\nKudaranai chou gensou\r\nWasurerarenu sonzai kan wo\r\nKishi kaisei\r\nRiraito shite\r\nImi no nai souzou mo\r\nKimi wo nasu gendouryoku\r\nZenshin zenrei wo kure yo\r\n\r\n\r\nMebaeteta kanjou kitte naite\r\nShosen tada bonyou shitte naite\r\nKusatta kokoro wo\r\nUsugitanai uso wo\r\n\r\n\r\nKeshite riraito shite\r\nKudaranai chou gensou\r\nWasurerarenu sonzai kan wo\r\nKishi kaisei\r\nRiraito shite\r\nImi no nai souzou mo\r\nKimi wo nasu gendouryoku\r\nZenshin zenrei wo kure yo\r\n",
   },
   {
     id: 26,
     title: "BUMP OF CHICKEN - Tentai Kansoku ",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/bump-of-chicken/tentai-kansoku/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/bump-of-chicken/tentai-kansoku",
     lyrics:
       "Gozen niji fumikiri ni bouenkyou wo katsuidetta\r\nBeruto ni musunda rajio ame wa furanai rashii\r\n\r\n\r\nNifun go ni kimi ga kita oogesa na nimotsu shotte kita\r\nHajimeyou ka tentai kansoku houkiboshi wo sagashite\r\n\r\n\r\nFukai yami ni nomarenai you ni seiippai datta\r\nKimi no furueru te wo nigirou to shita ano hi wa\r\n\r\n\r\nMienai mono wo miyou to shite bouenkyou wo nozokikonda\r\nSeijaku wo kirisaite ikutsumo koe ga umareta yo\r\nAshita ga bokura wo yondatte henji mo roku ni shinakatta\r\n\u201Cima\u201D to iu houkiboshi kimi to futari oikaketeita\r\n\r\n\r\nKi ga tsukeba itsu datte hitasura nanika sagashiteiru\r\nShiawase no teigi to ka kanashimi no okiba to ka\r\n\r\n\r\nUmaretara shinu made zutto sagashiteiru\r\nSaa hajimeyou ka tentai kansoku houkiboshi wo sagashite\r\n\r\n\r\nIma made mitsuketa mono wa zenbu oboeteiru\r\nKimi no furueru te wo nigirenakatta itami mo\r\n\r\n\r\nShiranai mono wo shirou to shite bouenkyou wo nozokikonda\r\nKurayami wo terasu you na kasuka na hikari sagashita yo\r\nSou shite shitta itami wo imada ni boku wa oboeteiru\r\n\u201Cima\u201D to iu houkiboshi ima mo hitori oikaketeiru\r\n\r\n\r\nSe ga nobiru ni tsurete tsutaetai koto mo fuetetta\r\nAtena no nai tegami mo kuzureru hodo kasanatta\r\n\r\n\r\nBoku wa genki de iru yo shinpai goto mo sukunai yo\r\nTada hitotsu ima mo omoidasu yo\r\n\r\n\r\nYohou hazure no ame ni utarete nakidashisou na\r\nKimi no furueru te wo nigirenakatta ano hi wo\r\n\r\n\r\nMieteru mono wo miotoshite bouenkyou wo mata katsuide\r\nSeijaku to kurayami no kaerimichi wo kakenuketa\r\nSou shite shitta itami ga imada ni boku wo sasaeteiru\r\n\u201Cima\u201D to iu houkiboshi ima mo hitori oikaketeiru\r\n\r\n\r\nMou ichido kimi ni aou to shite bouenkyou wo mata katsuide\r\nMae to onaji gozen niji fumikiri made kaketeku yo\r\nHajimeyou ka tentai kansoku nifun go ni kimi ga konakutomo\r\n\r\n\r\n\u201CIma\u201D to iu houkiboshi\r\n\r\n\r\nKimi to futari oikaketeiru",
   },
   {
     id: 27,
     title: "supercell - Kimi no Shiranai Monogatari ",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/supercell/kimi-no-shiranai-monogatari/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/supercell/kimi-no-shiranai-monogatari",
     lyrics:
       "Itsumodoori no aru hi no koto\r\nKimi wa totsuzen tachiagari itta\r\n\u201Ckonya hoshi wo mi ni ikou\u201D\r\n\r\n\r\n\u201CTama ni wa ii koto iunda ne\u201D\r\nNante minna shite itte waratta\r\nAkari mo nai michi wo\r\nBaka mitai ni hashaide aruita\r\nKakaekonda kodoku ya fuan ni\r\nOshitsubusarenai you ni\r\n\r\n\r\nMakkura na sekai kara miageta\r\nYozora wa hoshi ga furu you de\r\n\r\n\r\nItsu kara darou kimi no koto wo\r\nOikakeru watashi ga ita\r\nDou ka onegai\r\nOdorokanaide kiite yo\r\nWatashi no kono omoi wo\r\n\r\n\r\n\u201CAre ga denebu, arutairu, bega\u201D\r\nKimi wa yubisasu natsu no daisankaku\r\nOboete sora wo miru\r\nYatto mitsuketa orihime-sama\r\nDakedo doko darou hikoboshi-sama\r\nKore ja hitori bocchi\r\n\r\n\r\nTanoshige na hitotsu tonari no kimi\r\nWatashi wa nanimo ienakute\r\n\r\n\r\nHontou wa zutto kimi no koto wo\r\nDokoka de wakatteita\r\nMitsukattatte todoki wa shinai\r\nDame da yo nakanai de\r\nSou iikikaseta\r\n\r\n\r\nTsuyogaru watashi wa okubyou de\r\nKyoumi ga nai you na furi wo shiteta\r\nDakedo\r\nMune wo sasu itami wa mashiteku\r\nAa sou ka suki ni naru tte\r\nKou iu koto nan da ne\r\n\r\n\r\nDou shitai? itte goran\r\nKokoro no koe ga suru\r\nKimi no tonari ga ii\r\nShinjitsu wa zankoku da\r\n\r\n\r\nIwanakatta\r\nIenakatta\r\nNido to modorenai\r\n\r\n\r\nAno natsu no hi\r\nKirameku hoshi\r\nIma demo omoidaseru yo\r\nWaratta kao mo\r\nOkotta kao mo\r\nDaisuki deshita\r\nOkashii yo ne\r\nWakatteta no ni\r\nKimi no shiranai\r\nWatashi dake no himitsu\r\nYoru wo koete\r\nTooi omoide no kimi ga\r\nYubi wo sasu\r\nMujaki na koe de",
   },
   {
     id: 28,
     title: "Amazarashi - Mudai",
-    link: "https://www.jpopasia.com/amazarashi/lyrics/288095/amazarashi-senbun-no-ichiya-monogatari-starlight/mudai-%E7%84%A1%E9%A1%8C/",
+    link: "https://www.jpopasia.com/amazarashi/lyrics/288095/amazarashi-senbun-no-ichiya-monogatari-starlight/mudai-%E7%84%A1%E9%A1%8C",
     lyrics:
       'mokuzoku apaato no ikkai de\r\nkare wa muchuu de e wo kaiteita\r\negakitakatta no wa jibun no koto\r\njibun wo torimaku sekai no koto\r\nchiisa na koro kara e ga suki datta\r\nriyuu wa mina ga hometekureru kara\r\ndemo ima ja hometekureru no wa\r\nissho ni kurashiteiru kanojo dake\r\n\r\ndemo kare wa sore de shiawase datta\r\nsurechigai no mainichi da kedo\r\nkanojo wa itsumo no okitegami\r\nsakura moyou no binsen ga itoshii\r\nkidzuitara yoru ga aketeita\r\nkidzuitara hi ga kureteita\r\nkidzuitara fuyu ga owatteta\r\nsono hi hajimete e ga ureta\r\n\r\njoukyou wa sudeni kawarihajimeteta\r\ntsugi no tsuki ni wa kare no e wa subete ureta\r\nkawatteku no wa itsumo fuukei\r\ndare mo ga kare no e wo tonaete kureta\r\nkanojo wa ureshisou ni kare ni kou itta\r\n"shinjite ta koto tadashikatta"\r\ne wo katte kureta hito-tachi kara\r\ntokidoki kansha no tegami wo moratta\r\nkansha sareru oboe mo nai ga\r\niya na ki ga suru wake mo nai\r\nchiisana heya ni sukoshi zutsu fueru\r\ntakaramono ga kare wa ureshikatta\r\nitsumademo konna joukyou ga\r\ntsudzuitekuretara ii to omotta\r\nkare wa masumasu e ga suki ni natta\r\nmotto subarashii e wo egakitai\r\negakitai no wa jibun no koto\r\nmotto fukai hontou no koto\r\nsaikou kessaku ga dekita\r\nkanojo mo suteki ne to waratta\r\ndare mo ga me wo somukeru youna\r\nhito no asamashii honshou no e\r\ndare mo ga kare no e ni mayu wo hisometa\r\nmaru de shio ga hiku youni hitobito wa satta\r\nkawatteku no wa itsumo fuukei\r\nhitobito wa kare wo munou da to azakeru\r\nkenka ga fueta futari mo yagate wakareta\r\nshinjiteta koto machigatteta kana\r\nmokuzou apaato no ikkai de\r\nkare wa imademo e wo kaiteiru\r\negakitakatta no wa jibun no koto\r\nkekkyoku karappo na boku no koto\r\nchiisana koro kara e ga suki datta\r\nriyuu wa ima ja mou wakaranai yo\r\nhometekureru hito wa mou inai\r\nfueru e ni mou namae nado nai\r\n\r\nkidzukeba dore kurai tsukihi ga sugitarou\r\nsono hi hisabisa ni ichimai no e ga ureta\r\nkawatteku no wa itsumo fuukei\r\nsono kainushi kara tegami ga todoita\r\nsakura moyou no binsen ni tada hitokoto\r\n"shinjite ta koto tadashikatta"',
   },
@@ -203,21 +204,21 @@ const mySongs = [
   {
     id: 30,
     title: "CHEMISTRY - Pieces of Dream",
-    link: "https://www.jpopasia.com/chemistry/lyrics/35608/pieces-of-a-dream/pieces-of-a-dream/",
+    link: "https://www.jpopasia.com/chemistry/lyrics/35608/pieces-of-a-dream/pieces-of-a-dream",
     lyrics:
       "DETARAME na yume wo suki katte baramaite\r\n\r\nOMOCHA ni shite itsumademo asonde ita\r\n\r\n\u201CMiesuita ashita ga ichiban kudaranai\u201D to\r\n\r\nHashagi nagara kimama ni ikita ano koro\r\n\r\nAh...semete BOKU-tachi ga ichido se wo muketara\r\n\r\nNido to wa modorena basho nanda to shittetara\r\n\r\n*HANPA na yume no hito KAKERA ga fui ni dareka wo kizusukete yuku\r\n\r\nOkubyou na BOKUtachi wa me wo tojite hanareta\r\n\r\nKIMI ni iisobireta koto ga POKETTO no naka ni mada nokotteru\r\n\r\nYubisaki ni furete wa kanjiru natsukashii itami ga\r\n\r\nNanika ni chikaduku tame ni aruita no ka\r\n\r\nToozakaru tame ni tada aruiteku no ka\r\n\r\nAh...ano toki no koto mo are kara no koto mo\r\n\r\nMachigatte nakatta no ka HONTO wa mada shira nai\r\n\r\nTsuyogaru wake ja nain dakedo tachidomaccha ikenai ki wa shiteru\r\n\r\nOmoide no BOKU-tachi wo semeru ki wa nai kara\r\n\r\nKIMI ga oitetta KOTOBA dake POKETTO no naka de nigirishimeta\r\n\r\nTe no hira ni nijinda kanshoku wo wasuretaku nai kara\r\n\r\nAre kara KIMI wa dou ikiteru no? Kawatta no kana...\r\n\r\nKIMI ga saigo ni tsumeta yume no KAKERA-tachi wa ima dou shiteru?\r\nBOKU wa... nido to wa modore nai toki nanda to kizuita\r\n\r\n*Repeat\r\n\r\nKimi wa ima nani shiteru?\r\n\r\nTsuki ga BOKU-tachi wo miteiru",
   },
   {
     id: 31,
     title: "Tomofumi Tanizawa - Kimi ni Todoke ",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/tomofumi-tanizawa/kimi-ni-todoke/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/tomofumi-tanizawa/kimi-ni-todoke",
     lyrics:
       "Yasashii hidamari ni chaimu ga direi suru\r\nHoho wo naderu kaze ibuki wa fukaku natteku\r\n\r\n\r\nToomawari no namida namae tsuketa ashita\r\nKasanaru miraiiro no rain\r\n\r\n\r\nAdokenai konna kimochi mo\r\nHajiketobu hodo waraiaeta hi mo\r\nTaisetsu ni sodatete ikeru you ni\r\nTogire togire no toki wo koete\r\nTakusan no hajimete wo kureta\r\nTsunagatte yuke todoke\r\n\r\n\r\nHoukago no yuuyami warau kimi no senaka\r\nHisoka na sasayaki fureta koto no nai omoi no naka\r\n\r\n\r\nBoku no naka no kimi to kimi no naka no boku de\r\nKaramaru miraiiro no rain\r\n\r\n\r\nAmeagari no machi no nioi to\r\nYume mitai na himitsu wo mune ni daite\r\nNandomo nakisou ni natte mata warau\r\nKangaeru yori zutto hayaku\r\nSono mune ni tobikometara ii\r\nTsunagatte yuke todoke\r\n\r\n\r\nNani yori mo daiji na kimi no mae de\r\nKizutsukanai you ni daiji ni shiteta no wa sou jibun\r\nSono hitokoto ga moshi mo sayonara no kawari ni natte shimattemo\r\nAri no mama subete\r\n\r\n\r\nAdokenai konna kimochi mo\r\nHajiketobu hodo waraiaeta hi mo\r\nTaisetsu ni sodatete ikeru you ni\r\nHonno sukoshi otona ni natteku\r\nKimi ni naritai boku wo koete\r\nTsunagatte yuke\r\nIma sugu kimi ni\r\nTodoke",
   },
   {
     id: 32,
     title: "ASIAN KUNG-FU GENERATION - After Dark ",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/asian-kung-fu-generation/after-dark/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/asian-kung-fu-generation/after-dark",
     lyrics:
       "Senaka no kage ga nobikiru sono aima ni nigeru\r\nHagareochita hane ni mo kizukazu ni tobu\r\n\r\n\r\nMachikado amai nioi ryuuzen\r\nTooku mukou kara\r\nDokoka de kiita you na nakigoe\r\n\r\n\r\nYokaze ga hakobu awai kibou wo nosete\r\nDoko made yukeru ka\r\nSore wo kobamu you ni sekai wa yurete subete wo ubaisaru\r\nYume nara sameta\r\nDakedo bokura wa mada nanimo shite inai\r\nSusume\r\n\r\n\r\nMahiru no taida wo tachikiru you na suburi de ukabu\r\nUmareochita kumo made miorosu you ni tobu\r\n\r\n\r\nMachikado chi no nioi ryuusen\r\nTooku mukou kara\r\nDokoka de kiita you na nakigoe\r\n\r\n\r\nDorodoro nagareru fukaku akai tsuki ga arawarete furareru sai\r\nDetarame na hibi wo tachikiritai\r\nNani kuwanu kao de owaranu you ni\r\n\r\n\r\nYokaze ga hakobu awai kibou wo nosete\r\nDoko made yukeru ka\r\nSore wo kobamu you ni sekai wa yurete subete wo ubaisaru\r\nYume nara sameta\r\nDakedo bokura wa mada nanimo shite inai\r\nSusume",
   },
@@ -238,7 +239,7 @@ const mySongs = [
   {
     id: 36,
     title: "back number - Happy End",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/back-number/happy-end/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/back-number/happy-end",
     lyrics:
       "Sayonara ga nodo no oku ni tsukkaete shimatte\r\nSeki wo suru mitai ni arigatou tte itta no\r\nTsugi no kotoba wa dokoka to poketto wo sagashitemo\r\nMitsukaru no wa anata wo suki na watashi dake\r\n\r\n\r\nHeiki yo daijoubu da yo yasashiku nareta to omotte\r\nNegai ni kawatte saigo wa uso ni natte\r\n\r\n\r\nAoi mama karete yuku\r\nAnata wo suki na mama de kiete yuku\r\nWatashi mitai tote ni totte\r\nOku ni atta omoi to issho ni nigiritsubushita no\r\nDaijoubu daijoubu\r\n\r\n\r\nIma sugu ni dakishimete\r\nWatashi ga ireba nanimo iranai to\r\nSore dake itte kisu wo shite\r\nNante ne uso da yo gomen ne\r\n\r\n\r\nKonna toki omoidasu koto janai to wa omoun dakedo\r\nHitori ni shinai yo tte are jitsu wa ureshikatta yo\r\nAnata ga yuuki wo dashite hajimete denwa wo kureta\r\nAno yoru no watashi to nani ga chigaun darou\r\n\r\n\r\nDore dake hanareteitemo donna ni aenakutemo\r\nKimochi ga kawaranai kara koko ni iru no ni\r\n\r\n\r\nAoi mama karete yuku\r\nAnata wo suki na mama de kiete yuku\r\nWatashi wo zutto oboeteite\r\nNante ne uso da yo genki de ite ne\r\n\r\n\r\nNakanai watashi ni sukoshi hotto shita kao no anata\r\nAikawarazu nonki ne soko mo daisuki yo\r\n\r\n\r\nKi ga tsukeba yoko ni ite\r\nBetsu ni kimi no mama de ii no ni nante\r\nKatte ni namida fuita kuse ni\r\nMieru zenbu kikoeru subete\r\nIrozuketa kuse ni\r\n\r\n\r\nAoi mama karete yuku\r\nAnata wo suki na mama de kiete yuku\r\nWatashi mitai to te ni totte\r\nOku ni atta omoi to issho ni nigiritsubushita no\r\nDaijoubu daijoubu\r\n\r\n\r\nIma sugu ni dakishimete\r\nWatashi ga ireba nanimo iranai to\r\nSou itte mou hanasanaide\r\nNante ne uso da yo sayonara",
   },
@@ -252,14 +253,14 @@ const mySongs = [
   {
     id: 38,
     title: "Ai Higuchi - Kokoro Jellyfish",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/higuchi-ai/kokoro-jellyfish/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/higuchi-ai/kokoro-jellyfish",
     lyrics:
       "Yohouhazure no ame no hi wa toumei no kurage ga tadayou yo\r\nKurushimagire ni tsuita uso kokoro ni kumo wo hakonderu\r\nItsumo yori shizuka na machi wa iro wo kasuka ni nokoshiteiru yo\r\nKimi ga wasureta kuroi kasa itsumademo kawaita manma\r\n\r\n\r\nNee konna koto yameyou yo futari kizutsuku dake da yo\r\nSukoshizutsu hanareteku kyori ni sugatteru shika nai deshou\r\nNee itsu dakke yakusoku shita futari no mirai wa ame de nijinde\r\nMienai uchi ni se wo mukete shimaou\r\n\r\n\r\nKokoro jeriifisshu tsunagatta kimochi wa\r\nItsumo saitankyori wo hashiru no\r\nDemo ima wa todokanai kikoenai sonna kodou sae mo\r\nUmi no naka yurayura to yurete wa\r\nYami wo beddo ni hoshi wo aoide\r\nAeru nara aitai sunao na kimochi\r\n\r\n\r\nAre kara todaeta renraku tsubuyaita meeru wa hetteku yo\r\nShizen ni kiete yuku no kanaa\r\nItsumademo kikenai manma\r\nNee konna koto yametai yo honto wa tada nigetai no\r\nKimi no kokoro no yukue wo shiritai no\r\n\r\n\r\nKimi mo jeriifisshu yosete wa kaesu yo ni\r\nFutari no kankei wa aimai de\r\nDare ga warumono ni nareba atashi ga kizutsuku dake de sumu no?\r\nUmi no naka pukapuka to ukande\r\nSono mama nagare ni mi wo makasete\r\nShiranu ma ni kimi no tonari ni nagaretsukitai\r\n\r\n\r\nItsuka jeriifisshu ushinatte shimaeba\r\nSen wa futatsu no ten ni kawatte\r\nMukou kara tsuzuku ashiato nami ga saratte yuku yo\r\nSore demo nigedashisou na karada ashi mo temo subete nejifusete\r\nKimi no moto e\r\n\r\n\r\nMo ichido kimi ni kimochi tsutaete\r\nIchi kara yarinaosou da nante\r\nImasara ienai kono chiisana puraido kowashite shimae yo\r\nUmi no naka futari de oyoida ne kirakira yureru nami ni mukatte\r\nModoritai nante iwanai hoshii no wa mirai",
   },
   {
     id: 39,
     title: "Vocaloid - Sayoko",
-    link: "https://www.lyrical-nonsense.com/global/lyrics/kano/sayoko/",
+    link: "https://www.lyrical-nonsense.com/global/lyrics/kano/sayoko",
     lyrics:
       "Reizouko no naka ni wa nannimo nai tada aru no wa ocha to okusuri\r\nIchijougoto ni mune ga fuwafuwa fuan ga michiteku\r\n\r\n\r\nIPhone naderu sono yubisaki mo betabeta to nebaru kaminoke mo\r\nNani hitotsu kirei na mon nante aru hazu mo nai na\r\n\r\n\r\nShinitakute shinitakute sotto\r\nMachigatte kizu wo tsuketa tekubi wa\r\nItsu shika chairoku yogoreteru\r\nShimekitta boku no mabuta\r\nKaaten no sukima ni asa ga kitemo\r\nKizuku hazu nai\r\n\r\n\r\nTomodachi no eri mo takayuki mo hontou no toko hito no koto nado\r\nKi ni shiteru hima mo nai kurai isogashisou da shi na\r\nSore ni shitemo nani kono ekubo ari gachi na kazoku to jinsei\r\nNani hitotsu hokoreru mon nante aru hazu mo nai na\r\n\r\n\r\nNemutakute nemutakute zutto\r\nKono manma shibireru hodo nemuttara\r\nOkite ringo kajitte nemuru\r\nMuishiki yosoutte yurari\r\nBeranda ni nobotte kaze ga fuitemo\r\nToberu hazu nai\r\n\r\n\r\nAnna ni suki na owarai mo\r\nJinsei kaeta ongaku de sae\r\nNaze ni boku no koto wo hitei suru no\r\n\r\n\r\nShinitakute shinitakute sotto\r\nMachigatte kizu wo tsuketa tekubi wa\r\nItsu shika chairoku yogoreteru\r\nShimekitta boku no mabuta\r\nKaaten no sukima ni asa ga kitemo\r\nKizukanai yo\r\n\r\n\r\nSonna hi ga sonna hi ga zutto tsuzukun yatte nageitemo\r\nNanika ga ieru wake janai\r\nIeru hazu nai\r\nKiete shimaou\r\nUn, kiete shimaou",
   },
