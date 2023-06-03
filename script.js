@@ -1,4 +1,5 @@
 const cardsContainer = document.getElementById("cardsContainer");
+let currentPlaylist = "wanwan";
 
 function unescapeCharacters(text) {
   var escapedChars = {
@@ -41,11 +42,11 @@ function createCard(song) {
 }
 
 function selectPlaylist() {
-  const currentPage = window.location.pathname.split("/")[1];
-  switch (currentPage) {
-    case "index.html":
+  console.log("currentPlaylist: ", currentPlaylist);
+  switch (currentPlaylist) {
+    case "wanwan":
       return wanwanSongs;
-    case "noom.html":
+    case "noom":
       return mySongs;
     default:
       return wanwanSongs;
@@ -55,6 +56,8 @@ function selectPlaylist() {
 function renderCards(searchTerm) {
   cardsContainer.innerHTML = "";
   const songs = selectPlaylist();
+  console.log(songs);
+  // const songs = selectPlaylist();
   songs.forEach((song) => {
     if (song.title.toLowerCase().includes(searchTerm)) {
       const card = createCard(song);
@@ -72,6 +75,11 @@ function searchCards() {
     bakaImage.style.display = "flex";
   }
   renderCards(searchTerm);
+}
+
+function changePlaylist(playListName) {
+  currentPlaylist = playListName;
+  renderCards("");
 }
 
 renderCards("");

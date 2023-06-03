@@ -60,6 +60,7 @@ input {
   cursor: pointer;
   color: #777;
   transition: color 0.3s ease;
+  font-weight: bold;
 }
 
 .tab:hover {
