@@ -121,6 +121,7 @@ input {
   color: #777;
   transition: opacity 0.3s ease;
   word-wrap: break-word;
+  white-space: pre-wrap;
 }
 
 .lyrics.show {
