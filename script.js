@@ -56,8 +56,6 @@ function selectPlaylist() {
 function renderCards(searchTerm) {
   cardsContainer.innerHTML = "";
   const songs = selectPlaylist();
-  console.log(songs);
-  // const songs = selectPlaylist();
   songs.forEach((song) => {
     if (song.title.toLowerCase().includes(searchTerm)) {
       const card = createCard(song);
