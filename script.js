@@ -21,7 +21,7 @@ function createCard(song) {
   card.classList.add("card");
 
   const title = document.createElement("h2");
-  title.textContent = song.title;
+  title.textContent = `[${song.id}] ${song.title}`;
 
   const link = document.createElement("p");
   link.innerHTML = `Link: <a style="word-wrap: break-word;" href="${song.link}" target="_blank">${song.link}</a>`;
